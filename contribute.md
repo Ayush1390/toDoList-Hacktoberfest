@@ -2,7 +2,7 @@
 
 Thank you for your interest in contributing to our project! Please follow these steps to make a meaningful contribution:
 
-## Getting Started
+## How to Start Contributing?
 
 1. Check the project's issues to see if the task you want to work on is already being discussed. If it is, you can join the discussion there.
 
