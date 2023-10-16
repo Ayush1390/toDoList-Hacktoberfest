@@ -55,6 +55,10 @@ body{
     border: none;
     cursor: pointer;
  }
+ .clearAllButton{
+   width: 110px;
+   margin-left: 15px;
+ }
  .text ul{
     position: relative;
     background-color: rgb(5, 31, 31);
