@@ -64,9 +64,17 @@ body{
     font-size: 19px;
 
  }
- .text ul i{
+#delete{
     cursor: pointer;
     position: absolute;
     right: 15px;
  }
+
+#edit{
+   cursor: pointer;
+   position: absolute;
+   right: 40px;
+}
+
+
 
