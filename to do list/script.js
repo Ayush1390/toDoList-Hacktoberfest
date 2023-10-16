@@ -15,3 +15,7 @@ function Add(){
         }
     }
 }
+function ClearAll(){
+    if(text.innerHTML != '')
+        text.querySelectorAll('ul').forEach(i => i.remove());
+}
